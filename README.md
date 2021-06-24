@@ -1,2 +1,2 @@
-# vanilla-todo
+# sandbox
 Created with CodeSandbox
